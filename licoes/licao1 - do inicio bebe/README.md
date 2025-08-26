@@ -10,6 +10,8 @@
 
 # Do início, bebê
 
+[**Vídeo da lição**](https://youtu.be/4Pp4zsnziDU).
+
 Para começar, [**instale o Rust!**](https://www.mycompiler.io/pt/new/rust). 
 
 A estrutura básica de um programa **Rust** é exatamente essa: 

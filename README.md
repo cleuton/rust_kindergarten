@@ -19,7 +19,7 @@ Já tem o [**Rust instalado?**](./instalar_rust.md).
 Então vamos lá... 
 
 - [**ZERO - AULA ZERO EM VÍDEO - COMECE AQUI**](https://youtu.be/2awLyHNI3T8).
-- [**1 - Tia, posso fazer xixi?**: Estrutura, funções, tipos escalares, referências](./licoes/licao1%20-%20do%20inicio%20bebe/).
+- [**1 - Tia, posso fazer xixi?**: Estrutura, funções, tipos escalares, referências](./licoes/licao1%20-%20do%20inicio%20bebe/). [**--> vídeo**](https://youtu.be/4Pp4zsnziDU).
 - [**2 - Olha, Mamãe: Sem as mãos**: Tipos compostos, ownership, borrow](./licoes/licao2%20-%20sem%20as%20mãos%20-%20tipos%20compostos/).
 - [**3 - Onde a criança chora e a mãe não vê**: Array, slice e vec](./licoes/licao3%20-%20%20onde%20a%20criança%20chora%20e%20a%20mãe%20não%20vê%20-%20array%20-%20slice%20-%20vec/).
 - [**4 - Mamãe eu quero mamar**: Structs](./licoes/licao4%20-%20Mamae%20eu%20quero%20mamar%20-%20structs/).
