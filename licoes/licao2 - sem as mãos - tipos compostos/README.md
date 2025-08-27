@@ -10,6 +10,8 @@
 
 # Olha, Mamãe: Sem as mãos! Tipos compostos 
 
+[**Vídeo da lição**](https://youtu.be/rxw6Q_Cm84U).
+
 Para começar, [**já instalou o Rust?**](https://www.mycompiler.io/pt/new/rust).
 
 Agora o "bicho" vai pegar... O que são tipos compostos em Rust? 
