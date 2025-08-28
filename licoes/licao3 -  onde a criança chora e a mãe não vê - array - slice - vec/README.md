@@ -10,6 +10,8 @@
 
 # Onde a criança chora e a mãe não vê: Arrays, slices e vec 
 
+[**Vídeo da lição**](https://youtu.be/GxQMSSvTkMM).
+
 Para começar, [**já instalou o Rust?**](https://www.mycompiler.io/pt/new/rust).
 
 É claro que Rust tem variáveis multivaloradas: 
