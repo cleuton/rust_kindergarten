@@ -10,6 +10,8 @@
 
 # Mamãe, eu quero mamar: Structs
 
+[**VÍDEO DA AULA**](https://youtu.be/ThUNWjLOkac)
+
 Para começar, [**já instalou o Rust?**](https://www.mycompiler.io/pt/new/rust).
 
 Como diria o Mestre Po, do seriado "Kung Fu": "Paciência, pequeno gafanhoto", **<u>Rust não é orientada a objetos</u>**> **Structs** não são classes!
@@ -73,7 +75,7 @@ fn main() {
 ```
 
 Só que teremos: `id`, `nome` e `email`, sendo que esses dois últimos atributos são String. E mostre com `println!`. Você já sabe fazer, certo? 
-
+ 
 **Primeiro soco na cara:** `error[E0277]: `Pessoa` doesn't implement std::fmt::Display` logo no `println!`. Por que? A macro `println!` não sabe como exibir a variável de tipo composto `Pessoa`! Você precisaria implementar o `trait` **Display** criando uma função `fmt()` para isso na implementação de `Display`. 
 
 > **Trait:** Um *trait* em Rust é como uma promessa de comportamento: ele define um conjunto de métodos que um tipo pode implementar, sem especificar como eles funcionam. Por exemplo, o trait `Debug` diz que um tipo pode ser impresso de forma útil para depuração (com `{:?}`), e `Display` diz que ele pode ser mostrado de forma bonita para o usuário (com `{}`). Quando um tipo implementa um trait, ele fornece o código real desses métodos. Isso permite que tipos diferentes sejam usados de forma uniforme, como imprimir qualquer coisa que implemente `Display`. Traits são essenciais para reutilização de código, abstração e polimorfismo em Rust.
