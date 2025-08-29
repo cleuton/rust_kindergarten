@@ -10,6 +10,8 @@
 
 # Fiz dodói: Traits
 
+[**Vídeo**](https://youtu.be/x1EWCiXkBe0)
+
 Para começar, [**já instalou o Rust?**](https://www.mycompiler.io/pt/new/rust).
 
 Muitas linguagens implementam o conceito de **herança** orientação a objetos, quando uma classe “filha” reaproveita atributos e métodos de uma classe “pai”, podendo também adicionar ou modificar comportamentos. É como herdar características e comportamentos de um modelo existente, evitando repetir código.
