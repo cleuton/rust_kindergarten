@@ -10,6 +10,8 @@
 
 # Cadê o meu suquinho? Métodos
 
+[**Vídeo**](https://youtu.be/cDkfrpKciH8?si=QT00U5ICzt-285C8)
+
 Para começar, [**já instalou o Rust?**](https://www.mycompiler.io/pt/new/rust).
 
 Minha amiga, meu amigo, NÃO EXISTEM MÉTODOS EM RUST! São apenas funções, declaradas em um bloco de implementação da `struct`. Parece muito com **Go**. Veja um exemplo de `struct` com método. Digite este código, compile e execute como `exercicio1`: 
@@ -105,7 +107,7 @@ Calma. Muita calma nessa hora!
 ### 2 Crie um programa com duas structs
 
 Você vai criar um programa com duas structs: `Ponto`, com os atributos `x` e `y`, ambos `f64`, e `Retângulo`, com os atributos `superior_esquerdo` do tipo `Ponto` e `inferior_direito` também do tipo `Ponto`. 
-
+ 
 Vai implementar um método para saber se os retângulos se interceptam. Como saber isso? Em pseudo-código, poderíamos fazer assim: 
 
 ```text
