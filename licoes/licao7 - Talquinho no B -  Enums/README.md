@@ -10,6 +10,8 @@
 
 # Talquinho no B.: Enums
 
+[**VÍDEO DA AULA**](https://youtu.be/_S8jLALxGBU).
+
 Para começar, [**já instalou o Rust?**](https://www.mycompiler.io/pt/new/rust).
 
 **enum** em **Rust** é muito mais relevante do que em outras linguagens de programação.

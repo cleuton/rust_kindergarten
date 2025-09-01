@@ -23,48 +23,43 @@ impl Moeda {
     }
     fn por_indice(indice: usize) -> Self {
         match indice {
-            5 => Moeda::UmCentavo,
-            4 => Moeda::CincoCentavos,
-            3 => Moeda::DezCentavos,
-            2 => Moeda::VinteEcincoCentavos,
-            1 => Moeda::CinquentaCentavos,
             0 => Moeda::UmReal,
-            _ => Moeda::UmCentavo, // O correto seria retornar Option e None
+            1 => Moeda::CinquentaCentavos,
+            2 => Moeda::VinteEcincoCentavos,
+            3 => Moeda::DezCentavos,
+            4 => Moeda::CincoCentavos,
+            5 => Moeda::UmCentavo,
+            _ => Moeda::UmCentavo,
         }
     }
 }
 
-fn calcular_troco(valor_centavos: i32) -> [i32;6] {
-    let mut moedas : [i32;6] = [0;6];
+fn calcular_troco(valor_centavos: i32) -> [i32; 6] {
+    let mut moedas: [i32; 6] = [0; 6];
     let mut troco = valor_centavos;
-    // Calcular o número de cada moeda
-    for i in 0..6 {
-        if troco >= moedas[i] {
-            let ix = 5 - i; 
-            let moeda = Moeda::por_indice(ix);
-            let qtde = troco / moeda.valor(); 
-            moedas[ix] = qtde;
-            troco = troco - (qtde * moeda.valor());
-        }
+
+    for ix in 0..6 {
+        let m = Moeda::por_indice(ix);
+        let qtde = troco / m.valor();
+        moedas[ix] = qtde;
+        troco -= qtde * m.valor();
     }
     moedas
 }
 
 fn main() {
     let resultado = calcular_troco(187);
-    for i in 0..6 {
-        let ix = 5 - i;
+    for ix in 0..6 {
         let moeda = Moeda::por_indice(ix);
-        if i == 0 {
-            if resultado[0] > 0 {
-                println!("{} moeda(s) de 1 Real",resultado[ix]);
-            }
-        } else {
-            if resultado[ix] > 0 {
-                println!("{} moeda(s) de {} centavo(s)",
-                        resultado[ix], moeda.valor());
+        let q = resultado[ix];
+        if q > 0 {
+            if ix == 0 {
+                println!("{} moeda(s) de 1 Real", q);
+            } else {
+                println!("{} moeda(s) de {} centavo(s)", q, moeda.valor());
             }
         }
     }
 }
+
 ```
