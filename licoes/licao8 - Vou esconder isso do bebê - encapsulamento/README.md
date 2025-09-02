@@ -10,6 +10,8 @@
 
 # Vou esconder isso do bebê : Encapsulamento
 
+[**VÍDEO**](https://youtu.be/1aMsxI7IdVQ?si=X51g8QKRvP1ZGzkf).
+
 Para começar, [**já instalou o Rust?**](https://www.mycompiler.io/pt/new/rust).
 
 **Aiin Rust não tem encapsulamento***

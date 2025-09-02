@@ -25,8 +25,8 @@ Então vamos lá...
 - [**4 - Mamãe eu quero mamar**: Structs](./licoes/licao4%20-%20Mamae%20eu%20quero%20mamar%20-%20structs/). [**--> vídeo**](https://youtu.be/ThUNWjLOkac).
 - [**5 - Cadê meu suquinho?**: Métodos](./licoes/licao5%20-%20Cade%20meu%20suquinho%20-%20metodos/). [**--> vídeo**](https://youtu.be/cDkfrpKciH8?si=QT00U5ICzt-285C8).
 - [**6 - Fiz dodói**: Traits](./licoes/licao6%20-%20Fiz%20dodói%20-%20Traits/). [**--> vídeo**](https://youtu.be/x1EWCiXkBe0).
-- [**7 - Talquinho no B**: Enums](./licoes/licao7%20-%20Enums/). [**-> vídeo**](https://youtu.be/_S8jLALxGBU).
-- [**8 - Vou esconder isso do bebê**: Encapsulamento](./licoes/licao8%20-%20Vou%20esconder%20isso%20do%20bebê%20-%20encapsulamento/).
+- [**7 - Talquinho no B**: Enums](./licoes/licao7%20-%20Enums/). [**--> vídeo**](https://youtu.be/_S8jLALxGBU).
+- [**8 - Vou esconder isso do bebê**: Encapsulamento](./licoes/licao8%20-%20Vou%20esconder%20isso%20do%20bebê%20-%20encapsulamento/). [**--> vídeo**](https://youtu.be/1aMsxI7IdVQ?si=X51g8QKRvP1ZGzkf).
 - [**9 - Tendi não tia**: Generics](./licoes/licao9%20-%20Tendi%20não%20fessora%20-%20Generics/).
 - [**10 - Cadê a mamãe?**: Lifetime](./licoes/licao10%20-%20cadê%20a%20mamãe%20-%20lifetime/).
 - [**11 - "b" com "a" faz "ba"** Command-line args e arquivos](./licoes/licao11%20-%20b%20com%20a%20faz%20ba%20-%20command-line%20args/).
