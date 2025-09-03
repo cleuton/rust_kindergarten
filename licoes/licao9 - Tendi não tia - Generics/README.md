@@ -10,6 +10,8 @@
 
 # Tendi não Tia : Generics
 
+[**VÍDEO**](https://youtu.be/whyslLGOLhU?si=hwdGs0X8dAaDOFlk).
+
 Para começar, [**já instalou o Rust?**](https://www.mycompiler.io/pt/new/rust).
 
 Generics é uma praga que existe em muitas linguagens como: **Java, Go, Rust, C++ (template class) etc**. Para que serve essa porcaria? Permite que funções, classes ou tipos trabalhem com múltiplos tipos de dados de forma segura e sem duplicação de código. Questionável, mas existe. 
