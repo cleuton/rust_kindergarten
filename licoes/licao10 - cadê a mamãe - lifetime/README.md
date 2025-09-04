@@ -10,6 +10,8 @@
 
 # Cadê a mamãe : Lifetime
 
+[**VÍDEO**](https://youtu.be/niU2Cg6lTWk?si=6ODhjlepUAHpiiT_).
+
 Para começar, [**já instalou o Rust?**](https://www.mycompiler.io/pt/new/rust).
 
 **Lifetimes** em Rust é uma das coisas mais **cheiradas** que existem na linguagem. Mas, se você tentar compreender a filosofia do Rust, em vez de brigar com ela, verá que faz sentido. 
