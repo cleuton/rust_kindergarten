@@ -10,6 +10,8 @@
 
 # Chamêgo de Vó - Cargo, dependências e use
 
+[**VÍDEO**](https://youtu.be/ZNejup89Gmg).
+
 Para começar, [**já instalou o Rust?**](https://www.mycompiler.io/pt/new/rust).
 
 **Rust** tem um mecanismo de controle de dependências sim. Você pode referenciar, baixar e compilar quaisquer dependências que o seu programa precisa, além de gerenciar o seu **projeto Rust**. 

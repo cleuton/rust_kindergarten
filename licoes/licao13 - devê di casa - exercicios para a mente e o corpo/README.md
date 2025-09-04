@@ -10,6 +10,8 @@
 
 # Devê di casa - Exercícios para a mente e o corpo
 
+> Esta aula não tem vídeo.
+
 Para começar, [**já instalou o Rust?**](https://www.mycompiler.io/pt/new/rust).
 
 Faça todos usando o `cargo`! Não quero mais ver `rustc` viu? 

@@ -30,7 +30,7 @@ Então vamos lá...
 - [**9 - Tendi não tia**: Generics](./licoes/licao9%20-%20Tendi%20não%20fessora%20-%20Generics/). [**--> vídeo**](https://youtu.be/whyslLGOLhU?si=hwdGs0X8dAaDOFlk).
 - [**10 - Cadê a mamãe?**: Lifetime](./licoes/licao10%20-%20cadê%20a%20mamãe%20-%20lifetime/). [**--> vídeo**](https://youtu.be/niU2Cg6lTWk?si=6ODhjlepUAHpiiT_).
 - [**11 - "b" com "a" faz "ba"** Command-line args e arquivos](./licoes/licao11%20-%20b%20com%20a%20faz%20ba%20-%20command-line%20args/). [**--> vídeo**](https://youtu.be/TkaonTNF4_A).
-- [**12 - Chamêgo de Vó** Cargo, dependências e `use`](./licoes/licao12%20-%20Cargo,%20dependencies%20e%20use/).
+- [**12 - Chamêgo de Vó** Cargo, dependências e `use`](./licoes/licao12%20-%20Cargo,%20dependencies%20e%20use/). [**--> vídeo**](https://youtu.be/ZNejup89Gmg).
 - [**13 - Devê di casa** Exercícios para a mente e o corpo](./licoes/licao13%20-%20devê%20di%20casa%20-%20exercicios%20para%20a%20mente%20e%20o%20corpo/).
 
 Se conseguiu terminar tudo, parabéns! Já vai ao banheiro sem ajuda!
