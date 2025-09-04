@@ -10,6 +10,8 @@
 
 # "b" com "a" faz "ba" : Command-line arguments e arquivos
 
+[**VÍDEO**](https://youtu.be/TkaonTNF4_A).
+
 Para começar, [**já instalou o Rust?**](https://www.mycompiler.io/pt/new/rust).
 
 Command-line arguments em Rust são muito fáceis de ler: 
